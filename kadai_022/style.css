@@ -75,7 +75,7 @@ a:hover {
 
 @media screen and (max-width: 768px) {
   #parent {
-    display: inline-block;
+    flex-direction: column;
   }
 
   h2 {
